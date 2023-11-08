@@ -40,7 +40,7 @@ Then open terminal and go to the path of folder which contain this project (Pipf
    pipenv install
 ```
 
-3. Now that you already installed it, you can start using the new virtual environtment for this project, run this following command to activate it:
+3. Now that you already installed it, you can start using this new virtual environtment for this project, run this following command to activate it:
 
 ```sh
    pipenv shell
@@ -79,6 +79,7 @@ Above, is just an example. You can try different combination between 'carat', 'c
 
 Below are the table that contain of diffent types for cut, color and clarity:
 
+<a align="center">
 |    cut    | color | clarity |
 | :-------: | :---: | :-----: |
 |   Ideal   |   E   |   SI2   |
@@ -89,9 +90,10 @@ Below are the table that contain of diffent types for cut, color and clarity:
 |           |   G   |  VVS1   |
 |           |   D   |   I1    |
 |           |       |   IF    |
+</a>
 
 - cut has 5 types,
 - color has 7 types
 - clarity has 8 types
 
-`Notes: ` Make sure to copy the same as in the table if you want to try different type of diamonds
+`Notes:` Make sure to copy the same as in the table if you want to try different type of diamonds
