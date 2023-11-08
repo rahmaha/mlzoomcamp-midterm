@@ -79,7 +79,6 @@ Above, is just an example. You can try different combination between 'carat', 'c
 
 Below are the table that contain of diffent types for cut, color and clarity:
 
-<a align="center">
 |    cut    | color | clarity |
 | :-------: | :---: | :-----: |
 |   Ideal   |   E   |   SI2   |
@@ -90,7 +89,6 @@ Below are the table that contain of diffent types for cut, color and clarity:
 |           |   G   |  VVS1   |
 |           |   D   |   I1    |
 |           |       |   IF    |
-</a>
 
 - cut has 5 types,
 - color has 7 types
